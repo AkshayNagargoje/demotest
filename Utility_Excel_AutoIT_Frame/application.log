@@ -1,0 +1,4 @@
+2022-07-22 23:53:27,255  INFO [main] ex1:19 - browser start
+2022-07-22 23:53:27,298  INFO [main] ex1:22 - connected to the page object model
+2022-07-22 23:53:33,466  INFO [main] ex1:25 - open website and enter credential 
+2022-07-22 23:53:34,196  INFO [main] ex1:28 - clicck login button
